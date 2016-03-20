@@ -1,0 +1,16 @@
+nav{
+	padding-top: 1em;
+}
+
+span{
+	border: 1px solid black;
+	padding: .5em;
+
+}
+
+
+section{
+	border: 1px solid black;
+	padding: .5em;
+	margin-top: .5em;
+}
